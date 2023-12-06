@@ -1,1 +1,1 @@
-# customer_segmentation
+# Kaggle project - customer segmentation
